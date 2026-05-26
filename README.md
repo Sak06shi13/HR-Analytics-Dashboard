@@ -1,12 +1,12 @@
 # HR-Analytics-Dashboard
-## 📌 Project Overview
+##  Project Overview
 The HR Analytics Dashboard is an interactive business intelligence project developed using Power BI, Excel, and DAX. The dashboard helps analyze employee data, workforce trends, attrition rates, and department performance through visually interactive reports and KPI-driven insights.
 
 This project is designed to support HR teams in making data-driven decisions by identifying employee patterns, improving workforce management, and monitoring key HR metrics.
 
 ---
 
-## 🚀 Features
+##  Features
 - Employee Attrition Analysis
 - Department-wise Employee Distribution
 - Gender Diversity Insights
@@ -18,14 +18,14 @@ This project is designed to support HR teams in making data-driven decisions by 
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 - Power BI
 - Microsoft Excel
 - DAX (Data Analysis Expressions)
 
 ---
 
-## 📊 Dashboard Insights
+##  Dashboard Insights
 The dashboard provides insights such as:
 - Total Employees
 - Attrition Count & Attrition Rate
@@ -37,14 +37,14 @@ The dashboard provides insights such as:
 
 ---
 
-## 📁 Project Files
+##  Project Files
 - `HR DASHBOARD.pbix` → Power BI Dashboard File
 - Dataset used for dashboard creation
 - Excel files for data cleaning and preprocessing
 
 ---
 
-## 🎯 Project Objective
+##  Project Objective
 The main objective of this project is to transform raw HR data into meaningful visual insights that help organizations:
 - Monitor employee retention
 - Understand workforce demographics
@@ -53,12 +53,12 @@ The main objective of this project is to transform raw HR data into meaningful v
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 (Add dashboard PDF here)
 
 ---
 
-## 💡 Key Skills Gained
+##  Key Skills Gained
 - Data Cleaning & Transformation
 - Data Visualization
 - Dashboard Development
@@ -68,5 +68,5 @@ The main objective of this project is to transform raw HR data into meaningful v
 
 ---
 
-## 👩‍💻 Developed By
+##  Developed By
 Sakshi Pote
